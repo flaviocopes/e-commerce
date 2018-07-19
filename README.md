@@ -1,4 +1,4 @@
-# test-project
+# e-commerce
 
 > A Vue.js project
 
